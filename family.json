@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Toril",
+        "age": 27,
+        "description": "Toril is a warm and loving woman from Stange, close to Hamar. She studied in Hamar and today she is a secondary school teacher in Elverum."
+    },
+    {
+        "id": 2,
+        "name": "Øyvind",
+        "age": 29,
+        "description": "Øyvind is a technology interested man from Hamar. He studied and started working with IT in Oslo. He moved back to Hamar when he met Toril. They now live together."
+    },
+    {
+        "id": 3,
+        "name": "Melis",
+        "age": 5,
+        "description": "Melis is the family's cuddle machine. She's originally from Kongsvinger and currently enjoys life in Hamar with her family."
+    }
+]
